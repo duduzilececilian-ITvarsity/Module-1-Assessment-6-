@@ -42,9 +42,6 @@ h1{
     font-family: sans-serif;
 }
 
-ul{
-    list-style-image: url('images/pointer-icon.png');
-}
 ol{
     list-style-type: upper-roman;
 }
